@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz_Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="question1">Toronto is capital city of Ontario</string>
+    <string name="questioin2">Montreal is capital city of Quebec</string>
+    <string name="question3">\"Canada day is on 2nd Friday \"</string>
+    <string name="question4">Mackenzie River is longest river of the Canada</string>
+    <string name="question5">\"Toronto is capital city of Canada \"</string>
+    <string name="question6">Banff National Park is in Alberta Province</string>
+    <string name="question7">Justin Bieber born in Londo Ontario city</string>
+    <string name="question8">Stephan Harper is Canada\'s current Prime minister</string>
+    <string name="question9">Queen Victoria choose British Columbia Name</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="wrong_answer">Wrong Answer</string>
+    <string name="add_new_questions">Add New Questions</string>
+</resources>
